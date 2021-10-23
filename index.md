@@ -18,7 +18,7 @@ footer: Projekt grupy "Okularnicy" w ramach "HACKATHON EKO-OBYWATEL 2021 | ASOS"
 <style>
 h1 {
   font-size: 3em;
-  background-color: #f1f1f1;
+  background-color: #f5f5f5;
   text-align: left;
   padding-left: 120px;
   padding-right: 40px;
@@ -53,6 +53,19 @@ h2 {
   position: absolute;
   top: 25%;
 }
+h3 {
+  text-align: center;
+  font-size: 4em;
+  position: absolute;
+  top: 7%;
+}
+h4 {
+  margin: 200px;
+  text-align: center;
+  font-size: 3.5em;
+  position: absolute;
+  top: 20%;
+}
 </style>
 ## Idea naszego projektu
 
@@ -61,3 +74,35 @@ h2 {
 
 ---
 ![bg 48%](static/pn_map_marked.jpg)
+
+---
+![bg](static/don2.jpg)
+![bg fit](static/don3.jpg)
+![bg](static/don4.png)
+
+---
+![bg contain](static/jar1.jpg)
+![bg contain](static/jar2.jpg)
+
+---
+### Zaangażowanie lokalnej społeczności
+
+---
+![bg](static/gramps3.jpg)
+![bg](static/gramps2.jpg)
+![bg](static/gramps1.jpg)
+
+---
+![bg](static/parsley_banner.png)
+
+---
+![bg 48%](static/pn_map_marked.jpg)
+
+---
+![bg](static/money.jpg)
+
+---
+#### Dlaczego my?
+
+---
+![bg](static/przerwa.jpg)
