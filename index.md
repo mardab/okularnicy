@@ -102,7 +102,10 @@ h4 {
 ![bg](static/money.jpg)
 
 ---
+![bg](static/przerwa.jpg)
+
+---
 #### Dlaczego my?
 
 ---
-![bg](static/przerwa.jpg)
+#### Dziękujemy za uwagę :)
